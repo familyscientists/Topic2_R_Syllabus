@@ -1,6 +1,5 @@
 # Topic2_R_Syllabus
 
-R
 1. Introduction to R: tutorial and basics
 
 2. Data exploration 
